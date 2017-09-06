@@ -1,0 +1,31 @@
+.jumbotron{
+	margin-top: 35px;
+	height: 300px;
+	/*background-color: #222 !important;*/
+}
+
+ #contact{
+	background-color: #f1efef;
+	margin-top: 80px;
+
+}
+
+#contact h2{
+	padding-top: 30px;
+	padding-bottom: 40px;
+}
+
+#details p{
+	font-style: 
+}
+ 
+ #container.conatiner-fluid{
+
+ }
+#Top span.glyphicon{
+     top: 40px;
+ }
+
+ #Top p{
+ 	margin-top: 40px;
+ }
